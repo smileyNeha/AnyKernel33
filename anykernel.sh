@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Excalibur Kernel | Lavender
+kernel.string=smiley Kernel | RMX2151
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lavender
-supported.versions=9 - 11
+device.name1=RMX2151
+supported.versions=11
 supported.patchlevels=
 '; } # end properties
 
